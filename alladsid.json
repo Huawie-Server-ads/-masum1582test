@@ -3,8 +3,8 @@
   "AllAdsId" : {
       
     "AdmobAppId" : "ca-app-pub-3940256099942544~3347511713",
-    "AdmobBannerId" : "ca-app-pub-3940256099942544/6300978111",
-	"AdmobInterstitialId" : "ca-app-pub-3940256099942544/1033173712",
+    "AdmobBannerId" : "",
+	"AdmobInterstitialId" : "",
 	"AdmobNativeId" : "ca-app-pub-3940256099942544/2247696110",
 	"FacebookbBannerId" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	"FacebookInterstitialId" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
